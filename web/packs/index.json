@@ -2,12 +2,14 @@
   "packs": [
     "CatStickers.json",
     "JapaneseKitty.json",
-    "m0rg4n4.json",
     "MyNightFury.json",
     "MrSalem.json",
+    "m0rg4n4.json",
+    "Daemitrix.json",
+    "Bender.json",
+    "Stewie.json",
     "BanditRaccoon.json",
-    "RedLinx.json",
-    "Daemitrix.json"
+    "RedLinx.json"
   ],
   "homeserver_url": "https://matrix.dragonmail.contact"
 }
