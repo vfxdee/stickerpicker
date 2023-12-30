@@ -4,8 +4,8 @@
     "JapaneseKitty.json",
     "MyNightFury.json",
     "MrSalem.json",
-    "m0rg4n4.json",
     "Daemitrix.json",
+    "foxflea.json",
     "Bender.json",
     "Stewie.json",
     "BanditRaccoon.json",
@@ -18,7 +18,7 @@
     "SoLTY99.json",
     "SmalKawaiiDragon.json",
     "DragonBoy.json",
-    "foxflea.json"
+    "m0rg4n4.json"
   ],
   "homeserver_url": "https://matrix.dragonmail.contact"
 }
